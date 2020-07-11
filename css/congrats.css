@@ -1,0 +1,21 @@
+body {
+    background: url('https://media1.giphy.com/media/l2Sqf1fbj1qrmaJ6E/source.gif');
+    background-position: center;
+
+}
+
+#grid {
+    width: 468px;
+    height: 440px;
+    border: black;
+    border-radius: 5px;
+
+
+    padding: 10px;
+    margin: auto;
+    margin-top: 60px;
+    background-color: white;
+    background: url('https://i.pinimg.com/originals/1b/0b/0a/1b0b0a8c01fe6add4e2f3e0325a35b8e.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
