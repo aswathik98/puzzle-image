@@ -1,7 +1,7 @@
 # puzzle-image
 * Project completed within a week .<br>
 * The user has to rotated the respective tiles to get the respective image within the given time.
-* Created with the hekp of HTML5,CSS,Javascript.
+* Created with the help of HTML5,CSS,Javascript.
 
 ## Screenshots
 <img src="images/1.png" width="250" style="max-width:100%;"> <img src="images/2.png" width="250px" style="max-width:100%;"> 
