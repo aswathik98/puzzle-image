@@ -1,4 +1,4 @@
-# :game: Image Puzzle
+# :puzzle: Image Puzzle
 * Project completed within a week .<br>
 * The user has to rotated the respective tiles to get the respective image within the given time.
 * Created with the help of HTML5,CSS,Javascript.
